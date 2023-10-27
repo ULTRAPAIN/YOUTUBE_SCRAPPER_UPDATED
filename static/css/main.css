@@ -1,0 +1,46 @@
+/* Set margin and font family for entire document */
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    }
+
+/* Center content container and set width */
+.content {
+    margin: 0 auto;
+    width: 400px;
+    }
+    
+    /* Set borders for table and its cells */
+    table, td, th {
+    border: 1px solid #aaa;
+    }
+    
+    /* Set table properties */
+    table {
+    border-collapse: collapse;
+    width: 100%;
+    background: linear-gradient(to bottom right, #b3cde0, #cfe1f2);
+    color: #444;
+    }
+    
+    /* Set height for table header cells */
+    th {
+    height: 30px;
+    }
+    
+    /* Set alignment and padding for table cells */
+    td {
+    text-align: center;
+    padding: 5px;
+    }
+    
+    /* Set margin for form container */
+    .form {
+    margin-top: 20px;
+    }
+    
+    /* Set width for specific element with ID "content" */
+    #content {
+    width: 70%;
+    }
+    

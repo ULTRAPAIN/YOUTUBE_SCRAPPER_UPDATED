@@ -1,0 +1,382 @@
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json --browser-path "C:\Program Files\WindowsApps\Mozilla.Firefox_118.0.2.0_x64__n80bbvh6b1yt2\VFS\ProgramFiles\Firefox Package Rootirefox.exe"
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json --browser-path C:\Program Files\WindowsApps\Mozilla.Firefox_118.0.2.0_x64__n80bbvh6b1yt2\VFS\ProgramFiles\Firefox Package Rootirefox.exe
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json --browser-path C:\Program Files\WindowsApps\Mozilla.Firefox_118.0.2.0_x64__n80bbvh6b1yt2\VFS\ProgramFiles\Firefox Package Rootirefox.exe
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json --browser-path C:\Program Files\Mozilla Firefoxirefox.exe
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json --browser-path C:\Program Files\WindowsApps\Mozilla.Firefox_118.0.2.0_x64__n80bbvh6b1yt2\VFS\ProgramFiles\Firefox Package Rootirefox.exe
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser firefox --output json
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\flask\\helpers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\werkzeug\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\flask\\blueprints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\jinja2\\loaders.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\support\\ui.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\support\\wait.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\support\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\remote\\command.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\remote\\script_key.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\remote\\webdriver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\common\\by.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\cython.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\Cython\\Shadow.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\click\\core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\chrome\\options.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\chromium\\options.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\common\\options.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\common\\proxy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\chromium\\webdriver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\common\\timeouts.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\remote\\file_detector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\common\\virtual_authenticator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\chrome\\service.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\chromium\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\chromium\\service.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\common\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\common\\service.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\remote\\webelement.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\firefox\\options.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\firefox\\firefox_binary.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\firefox\\firefox_profile.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\firefox\\webdriver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\selenium\\webdriver\\firefox\\service.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:03:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:03:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:03:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:03:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:03:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:03:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'driver' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:03:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:04:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:05:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:05:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:05:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:root:Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 118.0.5993.89 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BFA813+48355]
+	(No symbol) [0x00B8C4B1]
+	(No symbol) [0x00A95358]
+	(No symbol) [0x00AB61AC]
+	(No symbol) [0x00AB1EF3]
+	(No symbol) [0x00AB0579]
+	(No symbol) [0x00AE0C55]
+	(No symbol) [0x00AE093C]
+	(No symbol) [0x00ADA536]
+	(No symbol) [0x00AB82DC]
+	(No symbol) [0x00AB93DD]
+	GetHandleVerifier [0x00E5AABD+2539405]
+	GetHandleVerifier [0x00E9A78F+2800735]
+	GetHandleVerifier [0x00E9456C+2775612]
+	GetHandleVerifier [0x00C851E0+616112]
+	(No symbol) [0x00B95F8C]
+	(No symbol) [0x00B92328]
+	(No symbol) [0x00B9240B]
+	(No symbol) [0x00B84FF7]
+	BaseThreadInitThunk [0x75AE7BA9+25]
+	RtlInitializeExceptionChain [0x77D8BD3B+107]
+	RtlClearBits [0x77D8BCBF+191]
+
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:05:23] "POST /review HTTP/1.1" 200 -
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:root:Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 118.0.5993.89 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BFA813+48355]
+	(No symbol) [0x00B8C4B1]
+	(No symbol) [0x00A95358]
+	(No symbol) [0x00AB61AC]
+	(No symbol) [0x00AB1EF3]
+	(No symbol) [0x00AB0579]
+	(No symbol) [0x00AE0C55]
+	(No symbol) [0x00AE093C]
+	(No symbol) [0x00ADA536]
+	(No symbol) [0x00AB82DC]
+	(No symbol) [0x00AB93DD]
+	GetHandleVerifier [0x00E5AABD+2539405]
+	GetHandleVerifier [0x00E9A78F+2800735]
+	GetHandleVerifier [0x00E9456C+2775612]
+	GetHandleVerifier [0x00C851E0+616112]
+	(No symbol) [0x00B95F8C]
+	(No symbol) [0x00B92328]
+	(No symbol) [0x00B9240B]
+	(No symbol) [0x00B84FF7]
+	BaseThreadInitThunk [0x75AE7BA9+25]
+	RtlInitializeExceptionChain [0x77D8BD3B+107]
+	RtlClearBits [0x77D8BCBF+191]
+
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:05:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:10:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:10:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:10:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:10:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:10:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:10:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result [{'title': 'CSS Overflow Property | Sigma Web Development Course - Tutorial #26', 'views': '11K views', 'when': '18 hours ago', 'title_link': 'https://www.youtube.com/watch?v=ntlawluDB-c', 'img_link': None}, {'title': 'Styling Lists using CSS | Sigma Web Development Course - Tutorial #25', 'views': '17K views', 'when': '1 day ago', 'title_link': 'https://www.youtube.com/watch?v=ZIofkptpXO8', 'img_link': None}, {'title': 'CSS Shadows and Outlines | Sigma Web Development Course - Tutorial #24', 'views': '21K views', 'when': '2 days ago', 'title_link': 'https://www.youtube.com/watch?v=BZJcNU648Tc', 'img_link': None}, {'title': 'CSS Display Property | Sigma Web Development Course - Tutorial #23', 'views': '21K views', 'when': '3 days ago', 'title_link': 'https://www.youtube.com/watch?v=hRHV5cjEB1w', 'img_link': None}, {'title': 'CSS Sizing Units - px, rem, em, vh, vw, % & more | Sigma Web Development Course - Tutorial #22', 'views': '29K views', 'when': '4 days ago', 'title_link': 'https://www.youtube.com/watch?v=nkaAJYfRDVk', 'img_link': None}, {'title': 'CSS Specificity & Cascade | Sigma Web Development Course - Tutorial #21', 'views': '32K views', 'when': '5 days ago', 'title_link': 'https://www.youtube.com/watch?v=uTcpbPMZlFE', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:11:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:11:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result [{'title': 'CSS Overflow Property | Sigma Web Development Course - Tutorial #26', 'views': '11K views', 'when': '18 hours ago', 'title_link': 'https://www.youtube.com/watch?v=ntlawluDB-c', 'img_link': None}, {'title': 'Styling Lists using CSS | Sigma Web Development Course - Tutorial #25', 'views': '17K views', 'when': '1 day ago', 'title_link': 'https://www.youtube.com/watch?v=ZIofkptpXO8', 'img_link': None}, {'title': 'CSS Shadows and Outlines | Sigma Web Development Course - Tutorial #24', 'views': '21K views', 'when': '2 days ago', 'title_link': 'https://www.youtube.com/watch?v=BZJcNU648Tc', 'img_link': None}, {'title': 'CSS Display Property | Sigma Web Development Course - Tutorial #23', 'views': '21K views', 'when': '3 days ago', 'title_link': 'https://www.youtube.com/watch?v=hRHV5cjEB1w', 'img_link': None}, {'title': 'CSS Sizing Units - px, rem, em, vh, vw, % & more | Sigma Web Development Course - Tutorial #22', 'views': '29K views', 'when': '4 days ago', 'title_link': 'https://www.youtube.com/watch?v=nkaAJYfRDVk', 'img_link': None}, {'title': 'CSS Specificity & Cascade | Sigma Web Development Course - Tutorial #21', 'views': '32K views', 'when': '5 days ago', 'title_link': 'https://www.youtube.com/watch?v=uTcpbPMZlFE', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:12:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:12:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result [{'title': "This Is How You Retire In Your 30's | Early Retirement | Finance With Sharan", 'views': '41K views', 'when': '1 day ago', 'title_link': 'https://www.youtube.com/watch?v=D885QI9wK8Q', 'img_link': None}, {'title': 'How Did This Couple Get Rich? | Finance With Sharan', 'views': '242K views', 'when': '2 weeks ago', 'title_link': 'https://www.youtube.com/watch?v=gRxUyX3oQ4k', 'img_link': None}, {'title': 'Which Employee Spends The Most? | Assumptions vs Actual | Finance With Sharan', 'views': '105K views', 'when': '3 weeks ago', 'title_link': 'https://www.youtube.com/watch?v=Y3cKly68pWI', 'img_link': None}, {'title': '1 Hour With Real Estate Multi-Millionaire | Sunil Tulsiani | Ex- Detective In Canada', 'views': '93K views', 'when': '1 month ago', 'title_link': 'https://www.youtube.com/watch?v=MCqXg8In2bI', 'img_link': None}, {'title': '1 Hour with Robert Kiyosaki (Rich Dad Poor Dad) on Billionaire Mindset | The 1% Club Show | Ep 3', 'views': '2M views', 'when': '1 month ago', 'title_link': 'https://www.youtube.com/watch?v=zHt5Mdr0QFk', 'img_link': None}, {'title': "Why INDIANS Aren't Getting JOBS | Mesa School Founders Reveal | The 1% Club Show | Ep 6", 'views': '39K views', 'when': '3 months ago', 'title_link': 'https://www.youtube.com/watch?v=-P8UTxLcExg', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:12:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:12:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Dashrath\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pymongo\\mongo_client.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:selenium.webdriver.common.selenium_manager:Executing: C:\Users\Dashrath\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:17:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:17:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:17:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:17:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result [{'title': 'CSS Overflow Property | Sigma Web Development Course - Tutorial #26', 'views': '11K views', 'when': '19 hours ago', 'title_link': 'https://www.youtube.com/watch?v=ntlawluDB-c', 'img_link': None}, {'title': 'Styling Lists using CSS | Sigma Web Development Course - Tutorial #25', 'views': '17K views', 'when': '1 day ago', 'title_link': 'https://www.youtube.com/watch?v=ZIofkptpXO8', 'img_link': None}, {'title': 'CSS Shadows and Outlines | Sigma Web Development Course - Tutorial #24', 'views': '21K views', 'when': '2 days ago', 'title_link': 'https://www.youtube.com/watch?v=BZJcNU648Tc', 'img_link': None}, {'title': 'CSS Display Property | Sigma Web Development Course - Tutorial #23', 'views': '21K views', 'when': '3 days ago', 'title_link': 'https://www.youtube.com/watch?v=hRHV5cjEB1w', 'img_link': None}, {'title': 'CSS Sizing Units - px, rem, em, vh, vw, % & more | Sigma Web Development Course - Tutorial #22', 'views': '29K views', 'when': '4 days ago', 'title_link': 'https://www.youtube.com/watch?v=nkaAJYfRDVk', 'img_link': None}, {'title': 'CSS Specificity & Cascade | Sigma Web Development Course - Tutorial #21', 'views': '32K views', 'when': '5 days ago', 'title_link': 'https://www.youtube.com/watch?v=uTcpbPMZlFE', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:17:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:17:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\unicode_escape.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:25:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:25:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:25:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:root:log my final result [{'title': 'CSS Overflow Property | Sigma Web Development Course - Tutorial #26', 'views': '11K views', 'when': '19 hours ago', 'title_link': 'https://www.youtube.com/watch?v=ntlawluDB-c', 'img_link': None}, {'title': 'Styling Lists using CSS | Sigma Web Development Course - Tutorial #25', 'views': '17K views', 'when': '1 day ago', 'title_link': 'https://www.youtube.com/watch?v=ZIofkptpXO8', 'img_link': None}, {'title': 'CSS Shadows and Outlines | Sigma Web Development Course - Tutorial #24', 'views': '21K views', 'when': '2 days ago', 'title_link': 'https://www.youtube.com/watch?v=BZJcNU648Tc', 'img_link': None}, {'title': 'CSS Display Property | Sigma Web Development Course - Tutorial #23', 'views': '21K views', 'when': '3 days ago', 'title_link': 'https://www.youtube.com/watch?v=hRHV5cjEB1w', 'img_link': None}, {'title': 'CSS Sizing Units - px, rem, em, vh, vw, % & more | Sigma Web Development Course - Tutorial #22', 'views': '29K views', 'when': '4 days ago', 'title_link': 'https://www.youtube.com/watch?v=nkaAJYfRDVk', 'img_link': None}, {'title': 'CSS Specificity & Cascade | Sigma Web Development Course - Tutorial #21', 'views': '32K views', 'when': '5 days ago', 'title_link': 'https://www.youtube.com/watch?v=uTcpbPMZlFE', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:26:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:26:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result [{'title': 'BIGG BOSS OR YOUTUBE? The Final Verdict | CARRYMINATI Q&A 2023', 'views': '17M views', 'when': '1 month ago', 'title_link': 'https://www.youtube.com/watch?v=9VdFCP6nC-g', 'img_link': None}, {'title': 'JALWA - CARRYMINATI X WILY FRENZY', 'views': '12M views', 'when': '2 months ago', 'title_link': 'https://www.youtube.com/watch?v=P6EfPeYnf0c', 'img_link': None}, {'title': 'DAILY VLOGGERS PARODY \U0001f618 | CARRYMINATI', 'views': '59M views', 'when': '3 months ago', 'title_link': 'https://www.youtube.com/watch?v=5XVoRGhrhZk', 'img_link': None}, {'title': 'MC SALMAN FT BIGG BOSS - CARRYMINATI', 'views': '39M views', 'when': '4 months ago', 'title_link': 'https://www.youtube.com/watch?v=iFtH6g5HEVM', 'img_link': None}, {'title': 'MAGGIE KHAO BODY BANAO | CARRYMINATI', 'views': '35M views', 'when': '8 months ago', 'title_link': 'https://www.youtube.com/watch?v=IoTL9xZOdP0', 'img_link': None}, {'title': 'PAKISTANI GHOST HUNTERS', 'views': '29M views', 'when': '1 year ago', 'title_link': 'https://www.youtube.com/watch?v=pmj9gF7H_lQ', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:27:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:27:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:28:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:28:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:28:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result [{'title': 'BIGG BOSS OR YOUTUBE? The Final Verdict | CARRYMINATI Q&A 2023', 'views': '17M views', 'when': '1 month ago', 'title_link': 'https://www.youtube.com/watch?v=9VdFCP6nC-g', 'img_link': None}, {'title': 'JALWA - CARRYMINATI X WILY FRENZY', 'views': '12M views', 'when': '2 months ago', 'title_link': 'https://www.youtube.com/watch?v=P6EfPeYnf0c', 'img_link': None}, {'title': 'DAILY VLOGGERS PARODY \U0001f618 | CARRYMINATI', 'views': '59M views', 'when': '3 months ago', 'title_link': 'https://www.youtube.com/watch?v=5XVoRGhrhZk', 'img_link': None}, {'title': 'MC SALMAN FT BIGG BOSS - CARRYMINATI', 'views': '39M views', 'when': '4 months ago', 'title_link': 'https://www.youtube.com/watch?v=iFtH6g5HEVM', 'img_link': None}, {'title': 'MAGGIE KHAO BODY BANAO | CARRYMINATI', 'views': '35M views', 'when': '8 months ago', 'title_link': 'https://www.youtube.com/watch?v=IoTL9xZOdP0', 'img_link': None}, {'title': 'PAKISTANI GHOST HUNTERS', 'views': '29M views', 'when': '1 year ago', 'title_link': 'https://www.youtube.com/watch?v=pmj9gF7H_lQ', 'img_link': None}, {'title': 'LADKIYON KA BEST FRIEND', 'views': '39M views', 'when': '1 year ago', 'title_link': 'https://www.youtube.com/watch?v=l6BChpns5w8', 'img_link': None}, {'title': 'INDIAN FOOD MAGIC | CARRYMINATI', 'views': '43M views', 'when': '1 year ago', 'title_link': 'https://www.youtube.com/watch?v=-LIMVVfRp6Q', 'img_link': None}, {'title': 'GETTING MARRIED? QNA 2022 | CARRYMINATI', 'views': '21M views', 'when': '1 year ago', 'title_link': 'https://www.youtube.com/watch?v=G6qLfTA2PFw', 'img_link': None}, {'title': 'THARA BHAiiiii | CARRYMINATI', 'views': '63M views', 'when': '1 year ago', 'title_link': 'https://www.youtube.com/watch?v=0jUj3rfO7eM', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:28:37] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result [{'title': "This Is How You Retire In Your 30's | Early Retirement | Finance With Sharan", 'views': '41K views', 'when': '1 day ago', 'title_link': 'https://www.youtube.com/watch?v=D885QI9wK8Q', 'img_link': None}, {'title': 'How Did This Couple Get Rich? | Finance With Sharan', 'views': '242K views', 'when': '2 weeks ago', 'title_link': 'https://www.youtube.com/watch?v=gRxUyX3oQ4k', 'img_link': None}, {'title': 'Which Employee Spends The Most? | Assumptions vs Actual | Finance With Sharan', 'views': '105K views', 'when': '3 weeks ago', 'title_link': 'https://www.youtube.com/watch?v=Y3cKly68pWI', 'img_link': None}, {'title': '1 Hour With Real Estate Multi-Millionaire | Sunil Tulsiani | Ex- Detective In Canada', 'views': '93K views', 'when': '1 month ago', 'title_link': 'https://www.youtube.com/watch?v=MCqXg8In2bI', 'img_link': None}, {'title': '1 Hour with Robert Kiyosaki (Rich Dad Poor Dad) on Billionaire Mindset | The 1% Club Show | Ep 3', 'views': '2M views', 'when': '1 month ago', 'title_link': 'https://www.youtube.com/watch?v=zHt5Mdr0QFk', 'img_link': None}, {'title': "Why INDIANS Aren't Getting JOBS | Mesa School Founders Reveal | The 1% Club Show | Ep 6", 'views': '39K views', 'when': '3 months ago', 'title_link': 'https://www.youtube.com/watch?v=-P8UTxLcExg', 'img_link': None}, {'title': 'How do THE RICH Invest? CEO of Kotak Investment Reveals | Lakshmi Iyer | The 1% Club Show | Ep 2', 'views': '270K views', 'when': '4 months ago', 'title_link': 'https://www.youtube.com/watch?v=3TS4v3WCfeU', 'img_link': None}, {'title': 'SAVE Yourself From These FINANCIAL SCAMS', 'views': '24K views', 'when': '5 months ago', 'title_link': 'https://www.youtube.com/watch?v=CnM5E-frf8s', 'img_link': None}, {'title': 'Can You AFFORD to have a CHILD? | Finance with Sharan', 'views': '88K views', 'when': '5 months ago', 'title_link': 'https://www.youtube.com/watch?v=uUdM-kiCOvA', 'img_link': None}, {'title': '@Gurudev Reveals Secrets about Money, Relationships & Life | The 1% Club Show | Ep 1', 'views': '69K views', 'when': '5 months ago', 'title_link': 'https://www.youtube.com/watch?v=ImcuvKg04Xs', 'img_link': None}]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:28:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 12:28:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Detected change in 'e:\\sem 4\\NWT\\DAA_IE_PROJ\\yt_webscrapping\\application.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 855-208-650

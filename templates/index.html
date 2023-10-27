@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<style>
+    body {
+        background: linear-gradient(to bottom right, #ff9933, #ff5050);
+    }
+    .content {
+        position:relative;
+        top: -600px;
+        margin-top:700px;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        background-color: #f2f2f2;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    
+    form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+    
+    input[type='text'] {
+        padding: 10px;
+        width: 50%;
+        font-size: 16px;
+        border-radius: 5px;
+        border: none;
+        margin-right: 10px;
+    }
+    
+    input[type='submit'] {
+        padding: 10px;
+        background-color: #4CAF50;
+        color: white;
+        font-size: 16px;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+    }
+    
+    input[type='submit']:hover {
+        background-color: #3e8e41;
+    }
+</style>
+{% endblock %}
+{% block body %}
+
+<div class="content">
+    <h1>Search</h1>
+    <div class="form">
+        <form action="/review" method="POST">
+            <input type="text" name="content" id="content" placeholder="Enter search query...">
+            <input type="submit" value="Search">
+        </form>
+    </div>
+</div>
+{% endblock %}

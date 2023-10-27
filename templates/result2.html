@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Review Page</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  <style>
+    body {
+      background: linear-gradient(to bottom right, #b3cde0, #cfe1f2);
+      font-family: 'Helvetica Neue', sans-serif;
+      color: #444;
+    }
+    
+    .table-users {
+      margin: 50px auto;
+      width: 80%;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+    }
+    
+    .header {
+      background-color: #0077b6;
+      color: #fff;
+      font-size: 24px;
+      font-weight: bold;
+      padding: 20px;
+      text-align: center;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      padding: 12px;
+      text-align: center;
+    }
+    
+    th {
+      background-color: #003f5c;
+      color: #fff;
+    }
+    
+    tr:nth-child(even) {
+      background-color:  #b3cde0;
+    }
+    
+    tr:hover {
+      background-color:  #b3cde0;
+    }
+    
+  </style>
+</head>
+
+<body>
+
+  <div class="table-users">
+    <div class="header">Reviews</div>
+
+    <table>
+      <tr>
+        <th>Title</th>
+        <th>Views</th>
+        <th>Release Date</th>
+        <th>Title Link</th>
+        <th>Thumbnail Link</th>
+      </tr>
+      {% for review in reviews %}
+      <tr>
+        <td>{{review['title']}}</td>
+        <td>{{review['views']}}</td>
+        <td>{{review['when']}}</td>
+        <td>{{review['title_link']}}</td>
+        <td>{{review['img_link']}}</td>
+      {% endfor %}
+      </tr>
+    </table>
+  </div>
+
+</body>
+
+</html>
